@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3ac466e-0e96-4c5b-b8ff-c9fdc3a302b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/uk/co/barclays/loadproperty/LoadProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/barclays/listeners/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/barclays/resources/properties/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/uk/co/barclays/resources/runners/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uk/co/barclays/browserselector/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/co/barclays/browserselector/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uk/co/barclays/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/co/barclays/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/uk/co/barclays/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/uk/co/barclays/testbase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/uk/co/barclays/testsuite/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/uk/co/barclays/testsuite/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uk/co/barclays/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uk/co/barclays/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uk/co/barclays/utility/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uk/co/barclays/utility/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/uk/co/barclays/testbase/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/uk/co/barclays/testbase/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/uk/co/barclays/testsuite/TestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/uk/co/barclays/testsuite/TestCase.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAur1IOBHp9p5Y8ogFIOkeRgHE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testNG-harrow-maven-project" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hemal Sheth\IdeaProjects\barclays-maven-project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Hemal Sheth/IdeaProjects/testNG-barclays-maven-project/src/test/java/uk/co/barclays/resources/runners/testng.xml">
+    <configuration name="C:/Users/Hemal Sheth/IdeaProjects/testNG-barclays-maven-project/src/test/java/uk/co/barclays/resources/runners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testNG-barclays-maven-project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/uk/co/barclays/resources/runners/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="barclays-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.barclays.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.barclays.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.barclays.testsuite.TestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.verifyMouseHoverActionOnBankDropDownLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="barclays-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.barclays.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.barclays.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.barclays.testsuite.TestCase" />
+      <option name="METHOD_NAME" value="verifyMouseHoverActionOnBankDropDownLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.verifyMouseHoverAndClickOnBorrowDropDownLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="barclays-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.barclays.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.barclays.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.barclays.testsuite.TestCase" />
+      <option name="METHOD_NAME" value="verifyMouseHoverAndClickOnBorrowDropDownLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Hemal Sheth/IdeaProjects/testNG-barclays-maven-project/src/test/java/uk/co/barclays/resources/runners/testng.xml" />
+        <item itemvalue="TestNG.TestCase" />
+        <item itemvalue="TestNG.TestCase.verifyMouseHoverAndClickOnBorrowDropDownLink" />
+        <item itemvalue="TestNG.TestCase.verifyMouseHoverActionOnBankDropDownLink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3ac466e-0e96-4c5b-b8ff-c9fdc3a302b2" name="Default Changelist" comment="" />
+      <created>1586190914924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586190914924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586812657881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586812657881" />
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586203400506" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1586812922387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586812922387" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1586813328684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586813328684" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586821243296">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586813507374" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1586821243296" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586203908425" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586821243296">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586813507374" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1586821243296" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586203908425" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586821243296">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586813507373" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1586821243296" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586203908424" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586821243296">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1586813507374" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1586821243296" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586203908425" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586203567558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586203567558" />
+  </component>
+</project>
